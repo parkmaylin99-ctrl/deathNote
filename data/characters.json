@@ -1,0 +1,22 @@
+[
+  { "name": "Light Yagami", "age": 17, "photo": "https://i.pinimg.com/736x/8e/08/99/8e0899a56b2400b3b4e13297a9793d6c.jpg" },
+  { "name": "L", "age": 24, "photo": "https://i.pinimg.com/1200x/46/de/5f/46de5f00661c4a957461acf1e8b3dd8a.jpg" },
+  { "name": "Ryuk", "age": "Unknown", "photo": "https://i.pinimg.com/1200x/b1/fe/c0/b1fec0c4262ebd4e4d85e1eba0cc919b.jpg" },
+  { "name": "Misa Amane", "age": 19, "photo": "https://i.pinimg.com/1200x/16/45/2a/16452ab8f2cca58dfb57e4218b3f51a1.jpg" },
+  { "name": "Near", "age": 13, "photo": "https://i.pinimg.com/736x/06/18/39/061839955bcd907d671b8acfb304c3c9.jpg" },
+  { "name": "Mello", "age": 15, "photo": "https://i.pinimg.com/736x/e7/4e/87/e74e878ede99bf42974f9be590c3e0c1.jpg" },
+  { "name": "Rem", "age": "Unknown", "photo": "https://i.pinimg.com/1200x/d2/01/0e/d2010e07d485f0417936713c2a475547.jpg" },
+  { "name": "Teru Mikami", "age": 27, "photo": "https://i.pinimg.com/736x/fd/74/d1/fd74d152b1eda88b2e2f70b5d6bce49b.jpg" },
+  { "name": "Kiyomi Takada", "age": 24, "photo": "https://i.pinimg.com/736x/a8/d8/72/a8d8722e2aff44bcbcafa24f421c31c1.jpg" },
+  { "name": "Soichiro Yagami", "age": 48, "photo": "https://i.pinimg.com/736x/73/1f/db/731fdba0543b7a93472a88cc907328ad.jpg" },
+  { "name": "Touta Matsuda", "age": 22, "photo": "https://i.pinimg.com/1200x/33/41/b7/3341b78067299dd53eb131846dbeb5b0.jpg" },
+  { "name": "Shuichi Aizawa", "age": 35, "photo": "https://i.pinimg.com/1200x/52/21/65/52216558a777d9ba51d4b207dab4f538.jpg" },
+  { "name": "Kanzo Mogi", "age": 32, "photo": "https://i.pinimg.com/736x/c6/c4/17/c6c4177633f44b24cbf7917632d3cc89.jpg" },
+  { "name": "Watari", "age": 71, "photo": "https://i.pinimg.com/736x/99/12/22/99122209c0ea398280ec04a4e3071ddd.jpg" },
+  { "name": "Raye Penber", "age": 28, "photo": "https://i.pinimg.com/736x/ed/c9/da/edc9da7921d1423b2a7638d4b2e51a49.jpg" },
+  { "name": "Naomi Misora", "age": 28, "photo": "https://i.pinimg.com/736x/c4/ab/56/c4ab569af5618c32e7e8263bc225569c.jpg" },
+  { "name": "Matt", "age": 19, "photo": "https://i.pinimg.com/736x/e8/6f/80/e86f80e207502e5a6e39da7ca45b34d5.jpg" },
+  { "name": "Stephen Gevanni", "age": 27, "photo": "https://i.pinimg.com/736x/1b/b1/17/1bb117e595f248052a78955d4314b25a.jpg" },
+  { "name": "Anthony Rester", "age": 38, "photo": "" },
+  { "name": "Halle Lidner", "age": 26, "photo": "https://i.pinimg.com/736x/10/8e/31/108e319fad2ed73988560fab5d49b935.jpg" }
+]

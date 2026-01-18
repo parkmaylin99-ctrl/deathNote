@@ -1,0 +1,42 @@
+
+.notebook_content {
+    margin-top: 70px;
+}
+.notebook_container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+    padding: 40px 0;
+}
+
+.death-card {
+    background: rgba(239, 239, 239, 0.582);
+    border-left: 5px solid var(--red);
+    padding: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.3);
+    color: #000;
+    transition: 0.3s ease-in-out;
+}
+
+.death-card h3 {
+    text-transform: uppercase;
+    border-bottom: 1px solid #000000;
+    margin-bottom: 10px;
+    color: black;
+}
+.death-card:hover {
+    border-color: var(--red);
+    box-shadow: -5px 0px 15px var(--red);
+    transform: scale(1.02);
+    background: rgba(255, 255, 255, 0.721);
+    border-left: 5px solid var(--black);
+    
+}
+
+.death-date {
+    font-size: 0.8rem;
+    color: #4e4e4e;
+    display: block;
+    margin-top: 15px;
+}

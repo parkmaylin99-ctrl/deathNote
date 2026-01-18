@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Light Yagami",
+    "appearance": "A young man with light brown hair and brown eyes. He is typically seen wearing his school uniform or a formal suit, looking very neat and composed.",
+    "history": "A brilliant student who finds the Death Note. Under the alias 'Kira', he attempts to create a world free of criminals where he rules as a god."
+  },
+  {
+    "name": "L",
+    "appearance": "A disheveled young man with messy black hair and deep shadows under his eyes. He always wears a white long-sleeved shirt and blue jeans, usually barefoot.",
+    "history": "The world's greatest detective. He takes on the challenge of catching Kira, using his incredible intellect and eccentric methods."
+  },
+  {
+    "name": "Ryuk",
+    "appearance": "A tall, monstrous Shinigami with greyish-blue skin, bulging yellow eyes, and spiky black hair. He wears black, feather-like clothing.",
+    "history": "The Shinigami who dropped his Death Note into the human world out of boredom. He follows Light as an observer and loves eating human apples."
+  },
+  {
+    "name": "Misa Amane",
+    "appearance": "A famous model with blonde hair usually tied in pigtails. She often wears Gothic Lolita style clothing and dark accessories.",
+    "history": "A devoted supporter of Kira who becomes the Second Kira. She is obsessed with Light after he killed the man who murdered her parents."
+  },
+  {
+    "name": "Near",
+    "appearance": "A young, small boy with messy white hair and grey eyes. He wears white pajama-like clothes and is always seen playing with toys.",
+    "history": "The primary successor to L. He leads the SPK to investigate Kira, using logic and toys to simulate the movements of his targets."
+  },
+  {
+    "name": "Mello",
+    "appearance": "A young man with golden-blonde hair in a bob cut. He wears dark leather clothes and a cross necklace, often holding a bar of chocolate.",
+    "history": "The other successor to L who has a fierce rivalry with Near. He joins the mafia to hunt Kira in his own aggressive and emotional way."
+  },
+  {
+    "name": "Rem",
+    "appearance": "A Shinigami with a white, skeletal body and long light-purple hair. Her face is mostly hidden by her bone-like structure.",
+    "history": "The Shinigami who gave Misa her Death Note. Unlike Ryuk, she cares deeply for Misa and is willing to sacrifice herself for her safety."
+  },
+  {
+    "name": "Teru Mikami",
+    "appearance": "A man with dark hair and glasses, usually dressed in a professional business suit with a sharp, fanatical expression.",
+    "history": "A criminal prosecutor chosen by Light to act as the 'X-Kira'. He worships Kira as a god and executes criminals with military precision."
+  },
+  {
+    "name": "Kiyomi Takada",
+    "appearance": "An elegant woman with short black hair. She is a famous TV anchorwoman known for her sophisticated style and beauty.",
+    "history": "Light's former college classmate. She becomes the official spokesperson for Kira and acts as a messenger between Light and Mikami."
+  },
+  {
+    "name": "Soichiro Yagami",
+    "appearance": "An older man with greyish hair, a mustache, and glasses. He is usually seen in a police uniform or a standard suit.",
+    "history": "Light's father and the chief of the Kira Investigation Team. He is a man of high integrity who believes strongly in justice and the law."
+  },
+  {
+    "name": "Touta Matsuda",
+    "appearance": "A young detective with black hair and a youthful face. He often has a naive or energetic expression.",
+    "history": "The youngest and most impulsive member of the Task Force. Though often looked down upon, his loyalty to the team is absolute."
+  },
+  {
+    "name": "Shuichi Aizawa",
+    "appearance": "A serious-looking man with an afro-style haircut (later cut short). He has a very stern and focused demeanor.",
+    "history": "A core member of the Task Force. He is one of the first to seriously doubt Light and eventually helps lead the investigation against him."
+  },
+  {
+    "name": "Kanzo Mogi",
+    "appearance": "A tall, muscular man with short black hair and a very stoic, silent expression.",
+    "history": "One of the most dedicated members of the Task Force. He is known for his silence and his ability to carry out dangerous undercover missions."
+  },
+  {
+    "name": "Watari",
+    "appearance": "An elderly man with white hair and a mustache. He often wears a tuxedo and a trench coat with a hat.",
+    "history": "L's trusted handler and the founder of Wammy's House. He provides L with the technology and information needed for his cases."
+  },
+  {
+    "name": "Raye Penber",
+    "appearance": "An American man with short dark hair and a serious face, typically wearing a standard FBI trench coat and suit.",
+    "history": "An FBI agent sent to Japan to investigate the Yagami and Kitamura families. He was tragically manipulated and killed by Light."
+  },
+  {
+    "name": "Naomi Misora",
+    "appearance": "A beautiful woman with long black hair and blue eyes. She usually wears black leather clothing.",
+    "history": "A former FBI agent and Raye Penber's fiancée. She was a brilliant investigator who nearly discovered Light's identity."
+  },
+  {
+    "name": "Matt",
+    "appearance": "A young man with brownish-red hair, wearing striped shirts and goggles. He is almost always seen playing a handheld video game.",
+    "history": "Mello's best friend and an expert in surveillance. He assists Mello in his pursuit of Kira before his untimely confrontation with the police."
+  },
+  {
+    "name": "Stephen Gevanni",
+    "appearance": "A young man with short, neat hair and a focused look. He wears a standard SPK suit.",
+    "history": "An elite SPK agent. He is a master of forgery and tailing, responsible for the final trap that led to Light's downfall."
+  },
+  {
+    "name": "Anthony Rester",
+    "appearance": "A large, physically fit man with short blonde hair and a military-like appearance.",
+    "history": "Near's second-in-command in the SPK. He handles the tactical and physical operations of the team."
+  },
+  {
+    "name": "Halle Lidner",
+    "appearance": "A tall woman with blonde hair and a sharp, intelligent look. She often wears professional or casual tactical gear.",
+    "history": "A former CIA agent working for Near. She acted as a secret bridge between Near and Mello to ensure Kira was caught."
+  }
+]

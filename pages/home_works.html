@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<title>Interactive</title>
+		<link rel="stylesheet" href="../css/style.css" />
+		<link rel="stylesheet" href="../css/core.css" />
+		<link rel="stylesheet" href="../css/home_works.css" />
+	</head>
+	<body>
+		<div class="main-bg">
+				<img
+					src="../images/2026197.jpg"
+					alt="death note background"
+					class="img-bgd" />
+			</div>
+			<div class="header">
+				<div class="container">
+					<div class="inner_header">
+						<a href="../index.html">
+							<div class="logotype">
+								<img class="death-logo" src="../images/death logo.png" alt="" />
+							</div>
+						</a>
+						<ul class="menu">
+							<li class="menu_link">
+								<a href="/pages/lessons.html">Characters</a>
+							</li>
+							<li class="menu_link">
+								<a href="/pages/home_works.html">Interactive</a>
+							</li>
+							<li class="menu_link">
+								<a href="/pages/notebook_content.html" target="_blank"
+									>DeathNote content</a
+								>
+							</li>
+						</ul>
+						<button class="btn" id="btn-get">Write down</button>
+					</div>
+				</div>
+			</div>
+<!-- 
+			<div class="move_block">
+				<div class="container">
+					<h3>Homework 1 (part 2)</h3>
+					<div class="inner_move_block">
+						<div class="parent_block">
+							<div class="child_block"></div>
+						</div>
+					</div>
+				</div>
+			</div> -->
+
+			<div class="stopwatch">
+				<div class="container">
+					<h3>stopwatch</h3>
+					<div class="time">
+						<div class="time_block">
+							<div class="interval" id="seconds">0</div>
+						</div>
+					</div>
+					<div class="time_buttons">
+						<button class="btn" id="start">Start</button>
+						<button class="btn" id="stop">Stop</button>
+						<button class="btn" id="reset">Reset</button>
+					</div>
+				</div>
+			</div>
+
+			
+			<div class="converter">
+				<div class="container">
+					<h3>CONVERTER</h3>
+					<div class="inner_converter">
+						<div class="som">
+							<label for="som">Som</label>
+							<input type="number" id="som" />
+						</div>
+						<div class="usd">
+							<label for="usd">Usd</label>
+							<input type="number" id="usd" />
+						</div>
+						<div class="euro">
+							<label for="euro">Euro</label>
+							<input type="number" id="euro" />
+						</div>
+						<div class="jpy">
+							<label for="jpy">Jpy</label>
+							<input type="number" id="jpy" />
+						</div>
+					</div>
+				</div>
+			</div>
+
+
+			<div class="footer">
+				<div class="container">
+					<div class="inner_footer">
+						<div class="footer-main">
+							<div class="footer-info">
+								<a href="../index.html">
+									<div class="logotype-footer">
+										<img class="death-logo" src="../images/death logo.png" alt="" />
+									</div>
+								</a>
+								<p>Created by Nurbaeva Meerim</p>
+							</div>
+							<div class="page-path">
+								<ul class="menu">
+									<li class="menu_link">
+										<a href="pages/home_works.html">Characters</a>
+									</li>
+									<li class="menu_link">
+										<a href="pages/lessons.html">Interactive</a>
+									</li>
+									<li class="menu_link">
+										<a href="https://t.me/baked_toastt" target="_blank">DeathNote content</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+						<div class="footer-contacts">
+							<p class="footer-copyright">© Death Note 2026</p>
+							<div class="socials">
+								<a href="https://www.instagram.com/mwibdam/" ><img class="icons" src="../images/instagram-fill-svgrepo-com.svg" alt="inst icon"></a>
+								<a href="https://t.me/yngleanmn" ><img class="icons" src="../images/telegram-fill-svgrepo-com.svg" alt="telegram icon"></a>
+								<a href="https://discord.com/channels/@mwibdam" ><img class="icons" src="../images/discord-fill-svgrepo-com.svg" alt="discord icon"></a>
+								<a href="https://open.spotify.com/user/9ktifiv7xxfursbh7phxs5kfb" ><img class="icons" src="../images/spotify-fill-svgrepo-com.svg" alt="spotify icon"></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+<div class="modal">
+    <div class="modal_dialog">
+        <div class="modal_content">
+            <button class="modal_close">&times;</button>
+            <form id="death-note-form">
+                <div class="modal_title">Death Note</div>
+                <img class="logoDeath" src="/images/noteLogo.png" alt="death note logo" />
+                
+                <input required placeholder="Name" name="name" 
+                       type="text" class="modal_input modal_name" />
+                
+                <textarea 
+    required 
+    placeholder="Cause of Death and time" 
+    name="cause" 
+    class="modal_input modal_cause" 
+    rows="5"></textarea>
+
+                <button type="submit" class="btn" id="modal-btn">write down</button>
+                <span class="checker" id="modal_result"></span>
+            </form>
+        </div>
+    </div>
+</div>
+	</body>
+	<script src="../js/home_works.js"></script>
+	<script src="../js/modal.js"></script>
+	<script src="../js/header.js"></script>
+</html>
