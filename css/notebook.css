@@ -1,4 +1,7 @@
-
+.note {
+    flex: 1;
+    display: block;
+}
 .notebook_content {
     margin-top: 70px;
 }
